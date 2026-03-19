@@ -2,7 +2,7 @@
 
 Remove whitespace and comments from HTML to reduce file size, with preservation of IE conditional comments, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/developer-tools/html-minifier
+**Live Demo:** https://file-converter-free.com/en/developer-tools/html-minifier-online
 
 ## How It Works
 
